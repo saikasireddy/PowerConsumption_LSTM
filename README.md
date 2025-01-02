@@ -1,4 +1,4 @@
-# Power Consumption Prediction using LSTM
+# AI-Driven Analytics for Energy Optimization 
 
 This project focuses on predicting power consumption using **Long Short-Term Memory (LSTM)**, a type of Recurrent Neural Network (RNN) model. By analyzing historical power consumption data, the project aims to predict future energy usage trends, which can assist in resource planning and optimization.
 
